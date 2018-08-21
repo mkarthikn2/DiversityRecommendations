@@ -1,2 +1,2 @@
 # DiversityRecommendations
-Some algorithms to promote diversity of Recommendations
+Some algorithms to promote diversity in Recommendation Systems
